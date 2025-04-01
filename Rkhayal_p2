@@ -11,7 +11,7 @@
 <body>
   <div class="container mt-5">
     <h2>Business Analytics Student Survey</h2>
-    <form action="rkhayal_ty.html">
+    <form action="Rkhayal_ty.html">
       <div class="mb-4">
         <label class="form-label">
           I am finishing my <span class="text-danger">*</span>
