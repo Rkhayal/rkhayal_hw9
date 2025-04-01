@@ -12,7 +12,7 @@ rel="stylesheet"
 <body>
 <div class="container mt-5">
 <h2>Business Analytics Student Survey</h2>
-<form action="rkhayal_p2.html">
+<form action="Rkhayal_p2.html">
 <div class="mb-3">
 <label for="country" class="form-label">My home country is</label>
 <input
